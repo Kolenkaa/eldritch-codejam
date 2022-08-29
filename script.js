@@ -1,8 +1,3 @@
 const card = document.querySelectorAll('.ancient-card');
-console.log(card);
 
-function addActive() {
-	card.classList.toogle("active");	
-};
-
-card.addEventListener('click', addActive);
+console.log('Привет, друг(подруга)!Практически ничего не успел сделать, время совсем нету! Поэтому ставь, что заслужил. Спасибо!');
